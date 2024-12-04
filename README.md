@@ -1,6 +1,6 @@
 # Clarity-examples
 
-This project contains example code for the [clarity replay parser](https://github.com/skadistats/clarity).
+This project contains example code for the [clarity replay parser](https://github.com/skadistats/clarity). The intended usage is to parse dota2 game (.dem) files for usage with [CS584-Project](https://github.com/CombustibleToast/584-Project) 
 
 ## Introducti[.idea](.idea)on
 
