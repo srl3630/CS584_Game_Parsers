@@ -1,6 +1,6 @@
 # Clarity-examples
 
-This project contains example code for the [clarity replay parser](https://github.com/skadistats/clarity). The intended usage is to parse dota2 game (.dem) files for usage with [CS584-Project](https://github.com/CombustibleToast/584-Project) 
+This project contains example code for the [clarity replay parser](https://github.com/skadistats/clarity). The intended usage is to parse dota2 game (.dem) files for usage with [CS584-Project](https://github.com/CombustibleToast/584-Project).
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Linux / Mac:
 
     ./gradlew player_statusPackage
 
-#### Running the built player_status.jar
+#### Running the built player_status.jar (runs on unzipped .dem.bz2 files)
 
 Windows:
 
@@ -30,7 +30,7 @@ Linux / Mac:
 
     java -jar build/libs/player_status.jar replay.dem
 
-#### Running from Gradle
+#### Running from Gradle (runs on unzipped .dem.bz2 files)
 
 Windows:
 
