@@ -8,12 +8,7 @@ This code is derived from the [Clarity examples](https://github.com/skadistats/c
 
 ### Building / Parsing using this codebase
 
-All provided examples can be build with Gradle. The build process yields an "uno-jar", that is a jar 
-containing all the dependencies, which can be called from the command line easily without having to 
-set a correct classpath. Alternatively, you can use Gradle to run an example directly.
-
 All following commands have to be issued in the root of the project.
-
 
 #### Building
 
@@ -25,7 +20,7 @@ Linux / Mac:
 
     ./gradlew player_statusPackage
 
-#### Running the built uno-jar
+#### Running the built player_status.jar
 
 Windows:
 
